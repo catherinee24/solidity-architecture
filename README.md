@@ -1,4 +1,9 @@
 # 🏗️ Solidity Architecture: A Complete Overview
+  <a href="https://github.com/catellaTech" target="_blank">
+    <img alt="Author" src="https://img.shields.io/badge/made%20by-CatellaTech-blueviolet?style=flat-square">
+  </a>
+<br>
+<br>
 
 The architecture of **Solidity** revolves around various components that work together to create and execute smart contracts on the **Ethereum Virtual Machine (EVM)**. These components form the backbone of Solidity and guide the process from writing the code to executing it on the blockchain.
 
@@ -83,3 +88,11 @@ The modular and decentralized architecture of **Solidity** allows smart contract
 - **Learn about Smart Contracts**: Discover how Solidity smart contracts function and interact with the blockchain.
 - **Explore Dapp Development**: Learn how dapps communicate with Solidity smart contracts.
 - **Delve into EVM Opcodes**: Understand the low-level instructions that power smart contract execution.
+
+<p align="center">
+<a href="mailto:catellatech@gmail.com" target="_blank" >
+  <img alt="Email - J.Gabriela" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+</a> 
+<br/>
+  Made with ❤️ by <b>catellaTech</b>.
+<p/>
