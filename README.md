@@ -77,7 +77,7 @@ graph TD
   style F fill:#f96,stroke:#333,stroke-width:2px
 ```
 ## 📝 Conclusion
-The modular and decentralized architecture of Solidity allows smart contracts to run efficiently and securely on the Ethereum blockchain. From writing high-level code to executing it as bytecode on the EVM, Solidity ensures the smooth functioning of decentralized applications.
+The modular and decentralized architecture of **Solidity** allows smart contracts to operate efficiently and securely on the **Ethereum blockchain**. From writing high-level code to executing it as bytecode on the EVM, Solidity ensures the correct functioning of decentralized applications. However, while Solidity is designed to be secure, smart contracts are written by humans, which means vulnerabilities or errors can be introduced in the code. As many transition from Web2 to Web3, it is crucial to have an in-depth understanding of how blockchain works and how to mitigate these risks.
 
 ## 🧐 What’s Next?
 - **Learn about Smart Contracts**: Discover how Solidity smart contracts function and interact with the blockchain.
